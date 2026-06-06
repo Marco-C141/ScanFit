@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 174459973}
   - component: {fileID: 174459972}
   m_Layer: 5
-  m_Name: OverheadPressImage
+  m_Name: GIrondaRowImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -207,7 +207,7 @@ GameObject:
   - component: {fileID: 248572185}
   - component: {fileID: 248572187}
   m_Layer: 5
-  m_Name: LateralRaisesPanel
+  m_Name: ReversePecDeckPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -311,7 +311,7 @@ GameObject:
   - component: {fileID: 259408913}
   - component: {fileID: 259408915}
   m_Layer: 5
-  m_Name: FlyesPanel
+  m_Name: BarbellRowPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -415,7 +415,7 @@ GameObject:
   - component: {fileID: 272633427}
   - component: {fileID: 272633426}
   m_Layer: 5
-  m_Name: DipsImageContainer
+  m_Name: BicepsCurlImageContainer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -579,7 +579,7 @@ GameObject:
   - component: {fileID: 304856884}
   - component: {fileID: 304856883}
   m_Layer: 5
-  m_Name: TricepsExtensionImage
+  m_Name: HammerCurlImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -655,7 +655,7 @@ GameObject:
   - component: {fileID: 308157318}
   - component: {fileID: 308157317}
   m_Layer: 5
-  m_Name: OverheadPressImageContainer
+  m_Name: GirondaRowImageContainer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -986,7 +986,7 @@ GameObject:
   - component: {fileID: 357716099}
   - component: {fileID: 357716101}
   m_Layer: 5
-  m_Name: OverheadPressPanel
+  m_Name: GirondaRowPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1216,7 +1216,7 @@ GameObject:
   - component: {fileID: 421606405}
   - component: {fileID: 421606404}
   m_Layer: 5
-  m_Name: FlyesImage
+  m_Name: BarbellRowImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1521,7 +1521,7 @@ GameObject:
   - component: {fileID: 660757740}
   - component: {fileID: 660757739}
   m_Layer: 5
-  m_Name: DipsText
+  m_Name: BicepsCurlText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1543,7 +1543,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 240, y: -456.075}
+  m_AnchoredPosition: {x: 240, y: -428.04}
   m_SizeDelta: {x: 460, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &660757739
@@ -1580,7 +1580,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Fondos en paralelas
+  m_text: Curl de biceps
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9918385081731429aa814b1a435062ac, type: 2}
   m_sharedMaterial: {fileID: 3866053349927769127, guid: 9918385081731429aa814b1a435062ac, type: 2}
@@ -1899,7 +1899,7 @@ GameObject:
   - component: {fileID: 733862028}
   - component: {fileID: 733862027}
   m_Layer: 5
-  m_Name: BencPressImageContainer
+  m_Name: PullUpsImageContainer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1989,7 +1989,7 @@ GameObject:
   - component: {fileID: 751482591}
   - component: {fileID: 751482590}
   m_Layer: 5
-  m_Name: LateralRaisesImageContainer
+  m_Name: RReversePecDeckContainer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2206,7 +2206,7 @@ GameObject:
   - component: {fileID: 902012092}
   - component: {fileID: 902012094}
   m_Layer: 5
-  m_Name: InclinedPressPanel
+  m_Name: LatPulldownPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2309,7 +2309,7 @@ GameObject:
   - component: {fileID: 927283165}
   - component: {fileID: 927283164}
   m_Layer: 5
-  m_Name: DipsImage
+  m_Name: BicepsCurlImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2385,7 +2385,7 @@ GameObject:
   - component: {fileID: 947553080}
   - component: {fileID: 947553079}
   m_Layer: 5
-  m_Name: InclinedPressImageContainer
+  m_Name: LatPulldownImageContainer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2519,7 +2519,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Push
+  m_text: Pull
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
@@ -2734,7 +2734,7 @@ GameObject:
   - component: {fileID: 1020412742}
   - component: {fileID: 1020412744}
   m_Layer: 5
-  m_Name: BenchPressPanel
+  m_Name: PullUpsPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2977,7 +2977,7 @@ GameObject:
   - component: {fileID: 1141582445}
   - component: {fileID: 1141582444}
   m_Layer: 5
-  m_Name: FlyesText
+  m_Name: BarbellRowText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2999,7 +2999,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 240, y: -456.075}
+  m_AnchoredPosition: {x: 240, y: -428.04}
   m_SizeDelta: {x: 460, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1141582444
@@ -3036,7 +3036,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Aperturas en polea
+  m_text: 'Remo con barra
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9918385081731429aa814b1a435062ac, type: 2}
   m_sharedMaterial: {fileID: 3866053349927769127, guid: 9918385081731429aa814b1a435062ac, type: 2}
@@ -3277,7 +3279,7 @@ GameObject:
   - component: {fileID: 1215977630}
   - component: {fileID: 1215977632}
   m_Layer: 5
-  m_Name: TricepsExtensionPanel
+  m_Name: HammerCurlPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3380,7 +3382,7 @@ GameObject:
   - component: {fileID: 1299759510}
   - component: {fileID: 1299759509}
   m_Layer: 5
-  m_Name: LateralRaisesImage
+  m_Name: ReversePecDeckImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3604,7 +3606,7 @@ GameObject:
   - component: {fileID: 1347514618}
   - component: {fileID: 1347514617}
   m_Layer: 5
-  m_Name: OverheadPressText
+  m_Name: GirondaRowText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3663,7 +3665,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Press militar
+  m_text: Remo gironda
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9918385081731429aa814b1a435062ac, type: 2}
   m_sharedMaterial: {fileID: 3866053349927769127, guid: 9918385081731429aa814b1a435062ac, type: 2}
@@ -3860,7 +3862,7 @@ GameObject:
   - component: {fileID: 1511655929}
   - component: {fileID: 1511655928}
   m_Layer: 5
-  m_Name: InclinedPressImage
+  m_Name: LatPulldownImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3935,7 +3937,7 @@ GameObject:
   - component: {fileID: 1534292413}
   - component: {fileID: 1534292412}
   m_Layer: 5
-  m_Name: BenchPressImage
+  m_Name: PullUpsImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4011,7 +4013,7 @@ GameObject:
   - component: {fileID: 1545505404}
   - component: {fileID: 1545505403}
   m_Layer: 5
-  m_Name: TricepsExtensionImageContainer
+  m_Name: HammerCurlImageContainer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4249,7 +4251,7 @@ GameObject:
   - component: {fileID: 1612979631}
   - component: {fileID: 1612979630}
   m_Layer: 5
-  m_Name: FlyesImageContainer
+  m_Name: BarbellRowImageContainer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4415,7 +4417,7 @@ GameObject:
   - component: {fileID: 1652479500}
   - component: {fileID: 1652479499}
   m_Layer: 5
-  m_Name: TricepsExtensionText
+  m_Name: HammerCurlText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4437,7 +4439,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 240, y: -456.075}
+  m_AnchoredPosition: {x: 240, y: -428.04}
   m_SizeDelta: {x: 460, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1652479499
@@ -4474,7 +4476,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Extensi\xF3n de triceps"
+  m_text: Curl de martillo
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9918385081731429aa814b1a435062ac, type: 2}
   m_sharedMaterial: {fileID: 3866053349927769127, guid: 9918385081731429aa814b1a435062ac, type: 2}
@@ -4642,7 +4644,7 @@ GameObject:
   - component: {fileID: 1683428998}
   - component: {fileID: 1683429000}
   m_Layer: 5
-  m_Name: BenchPresssText
+  m_Name: PullUpsText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4687,7 +4689,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Press de banca
+  m_text: 'Dominadas
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9918385081731429aa814b1a435062ac, type: 2}
   m_sharedMaterial: {fileID: 3866053349927769127, guid: 9918385081731429aa814b1a435062ac, type: 2}
@@ -4794,7 +4798,7 @@ GameObject:
   - component: {fileID: 1730792494}
   - component: {fileID: 1730792493}
   m_Layer: 5
-  m_Name: LateralRaisesText
+  m_Name: ReversePecDeckText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4853,7 +4857,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Elevaciones laterales
+  m_text: Aperturas inversas
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9918385081731429aa814b1a435062ac, type: 2}
   m_sharedMaterial: {fileID: 3866053349927769127, guid: 9918385081731429aa814b1a435062ac, type: 2}
@@ -5036,7 +5040,7 @@ GameObject:
   - component: {fileID: 1744551567}
   - component: {fileID: 1744551569}
   m_Layer: 5
-  m_Name: DipsPanel
+  m_Name: BicepsCurlPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5398,7 +5402,7 @@ GameObject:
   - component: {fileID: 1908122393}
   - component: {fileID: 1908122392}
   m_Layer: 5
-  m_Name: InclinedPressText
+  m_Name: LatPulldownText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5420,7 +5424,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 240, y: -456.075}
+  m_AnchoredPosition: {x: 240, y: -428.04}
   m_SizeDelta: {x: 460, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1908122392
@@ -5457,7 +5461,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Press inclinado con mancuernas
+  m_text: "Jal\xF3n al pecho"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9918385081731429aa814b1a435062ac, type: 2}
   m_sharedMaterial: {fileID: 3866053349927769127, guid: 9918385081731429aa814b1a435062ac, type: 2}

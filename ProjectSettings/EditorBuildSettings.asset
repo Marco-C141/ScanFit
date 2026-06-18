@@ -14,5 +14,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PullScene.unity
     guid: fff0e08a734da61d0abc164a1d31553e
+  - enabled: 1
+    path: Assets/Scenes/PussAR.unity
+    guid: 0640cd5a1d5e25147bfaba990472105d
+  - enabled: 1
+    path: Assets/Scenes/PullAR.unity
+    guid: c6fc47c6eaec915409f7244c40d7b4e3
+  - enabled: 1
+    path: Assets/Scenes/LegAR.unity
+    guid: cf63ee49e5791304fb5b42f8f121d76f
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 53d3f0c81462cae479141e0a0f99c8a5, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 1a447a723ae51834f9091765970dfae2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8f7dbc02325b8df4f905a9f3e1f51682, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 74197bf155c7ff145993a878aacd5435, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 56daab2d33182f042afb34e5e9d88730, type: 2}

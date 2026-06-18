@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="curlmartillo" size="1.000000 0.544928" />
+    <ImageTarget name="culrbicepz" size="1.000000 0.544928" />
+    <ImageTarget name="rpd" size="1.000000 0.544928" />
+    <ImageTarget name="remogironda" size="1.000000 0.544928" />
+    <ImageTarget name="remobarra" size="1.000000 0.544928" />
+    <ImageTarget name="jalonpecho" size="1.000000 0.545455" />
+    <ImageTarget name="pullups" size="1.000000 0.545455" />
+    <ImageTarget name="extriceps" size="1.000000 0.545455" />
+    <ImageTarget name="fondos" size="1.000000 0.545455" />
+    <ImageTarget name="el" size="1.000000 0.545455" />
+    <ImageTarget name="pressmilitar" size="1.000000 0.545455" />
+    <ImageTarget name="aperturas" size="1.000000 0.545455" />
+    <ImageTarget name="pressinclinado" size="1.000000 0.545455" />
+    <ImageTarget name="pressbanca" size="1.000000 0.545455" />
+    <ImageTarget name="elevacionest" size="1.000000 0.545455" />
+    <ImageTarget name="curlis" size="1.000000 0.545455" />
+    <ImageTarget name="extensioncuadri" size="1.000000 0.545842" />
+    <ImageTarget name="pmr" size="1.000000 0.545842" />
+    <ImageTarget name="lp" size="1.000000 0.545842" />
+    <ImageTarget name="squat" size="1.000000 0.545842" />
+  </Tracking>
+</QCARConfig>
